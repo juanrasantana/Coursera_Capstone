@@ -1,5 +1,5 @@
 # Final Capstone Project
-Final Coursera Capstone for the "IBM Data Science Professional Certificate" course.
+Final Coursera Capstone for the "IBM Data Science Professional Certificate" course. This project has been developed using a IBM jupyter notebook and can be accessed [through this link](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/be003d54-c652-4600-88ba-771bf128ef02/view?access_token=3a781152ef1bd241d3c0d99c3a2b3598db3cd864b07d9dd19adc7cfc82364e81).
 
 # Where to buy a house? A real-state market analysis tool for the city of Santander
 

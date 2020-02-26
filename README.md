@@ -10,6 +10,8 @@ In this project we have focused on the city of Santander, so as to give some ins
 
 So as to address such issue, this project presents the city of Santander divided in different sections, providing information about the similarities among them using a choropleth map. Therefore, following the results of such map, the buyer can know which are districts that are similar considering the services they provide (hospitals, schools, etc.).
 
+![alt text](https://github.com/juanrasantana/Coursera_Capstone/raw/master/santander_city_sections.png "Santander city divided in sections")
+
 ## Project data
 So as to perform such analysis and present the results in this project, there are two online datasets available on internet:
 
